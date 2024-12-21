@@ -1,6 +1,21 @@
-This is an openSource executor for proof that this is not an rat/virus/bitcoin miner.
-paid executors are kinda shit but GhostX on Top+Free
-donations are open btw ;))
+GhostX is a next-generation, open-source Roblox executor designed for high performance and simplicity. Here's why it's unique:
 
----!RECOMMENDED TO USE ROBLOX APP INSTEAD WEB BECAUSE EXECUTOR CRASHES WHENEVER YOU CLOSE ROBLOX APP!---
-Major bug working on it...
+• ⚡ Powerful & Minimal: Runs smoothly without using too many resources.
+• 📜 Wide Script Support: Works with many popular scripts.
+• 🛡️ Open-Source: Fully transparent for better security and trust.
+• 🔍 Built-In Decompiler: Easily analyze and modify scripts.
+• 🚀 Free API: Build your own executors or add features without cost.
+
+Credits
+
+• Matt – Web Developer 🌐
+• Swift – Web Developer 💻
+• Cherrypas – Lua/Luau Developer 🔧
+• ScriptContext – API Developer 🛠️
+• Ali – Lua/Luau Developer 💡
+• Yvexy – UI Developer 🎨
+
+🌐 Visit our website: https://ghostx.netlify.app
+
+⚠️ NOTICE ⚠️
+GhostX is not yet released but will be available soon. Join our Discord for updates!
